@@ -14,7 +14,7 @@
 print("MENU OPCIONES")
 
 op = int(input("Ingrese una opcion: "))
-while op != 7:
+while op != 9:
 
     if op == 1:
         print("Ingrese el valor 1: ")
@@ -35,7 +35,7 @@ while op != 7:
         print("ERROR: debe ingresar la opcion 3")
 
     if op == 4:
-        resta = op1 - op2
+        resta = (op1 - op2) * 2
         print(f"RESTA: {resta}")
     else:
         print("ERROR: debe ingresar la opcion 4")
