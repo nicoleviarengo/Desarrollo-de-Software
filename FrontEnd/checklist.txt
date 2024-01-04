@@ -1,0 +1,5 @@
+◙ BOTONES!!!
+◙ iniciar sesion (usuario y contraseña)
+◙ cargar nombre, fecha, imagen y precio de los cuadros (en el componnte cargarCuadros)
+◙ Vue Router para redirigir a las 2 paginas (iniciar secion -> cargar cuadros) (falta el main.js)
+
